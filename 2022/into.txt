@@ -1,0 +1,2 @@
+- tmux config as developed during pandemic (2020)
+
